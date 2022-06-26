@@ -1,5 +1,6 @@
 <h1>
-TRATAMENTO DE EXCEÇÕES EM JAVA</h1>
+TRATAMENTO DE EXCEÇÕES EM 
+</h1>
 
 <p>Curso que apresenta conceitos introdutórios sobre como podemos identificar e tratar Exceptions na linguagem Java. 
 Curso este ministrado por mim em nome da <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE  </a></strong> 🧡💛 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
@@ -33,8 +34,9 @@ Curso este ministrado por mim em nome da <strong> <a href="https://web.digitalin
 </li>
 </ul>
 
-<h3>Error:</h3> Usado pela JVM que serve para indicar se existe algum problema de recurso do programa, tornando a execução impossível de continuar.
-<h3>Unchecked (Runtime):</h3> Exceptions que PODEM ser evitados se forem tratados e analisados pelo desenvolvedor. 
+<h3>Error:</h3> Usado pela JVM que serve para indicar se existe algum problema de recurso do programa, tornando a
+execução impossível de continuar.
+<h3>Unchecked (Runtime):</h3> Exceptions que PODEM ser evitados se forem tratados e analisados pelo desenvolvedor.
 <h3>Checked Exception:</h3> Exceptions que DEVEM ser evitados etratados pelo desenvolvedor para o programa funcionar.
 
 <div align="center">
@@ -117,7 +119,7 @@ Curso este ministrado por mim em nome da <strong> <a href="https://web.digitalin
     <li>É usada para lançar explicitamente uma exceção de um método ou de qualquer bloco de código.</li>
     <li>Usada principalmente para lançar exceções personalizadas</li>
     <em>Importante</em>:    
-    <li>O fluxo de execução "normal" do programa para imeditamente apos a execução da cláusula <em>throw</em>. O bloco <em>try</em> envolvente mais próximo é verificado para encontrar um bloco <em>catch</em> que corresponda ao tipo de exceção.</li>
+    <li>O fluxo de execução "normal" do programa para imeditamente após a execução da cláusula <em>throw</em>. O bloco <em>try</em> envolvente mais próximo é verificado para encontrar um bloco <em>catch</em> que corresponda ao tipo de exceção.</li>
     <li>Caso encontre essa correspondência, o controlado é transferido para esse bloco. Caso contrário, o próximo bloco <em>try</em> envolvente é verificado e assim por diante.</li>
     <li>Outro caso, é se nenhuma captura for encontrada, o manipulador da exceção padrão interromperá o programa.</li>
 
@@ -138,11 +140,12 @@ Curso este ministrado por mim em nome da <strong> <a href="https://web.digitalin
 <h2> 🤝 Contribuindo </h2>
 
 Este repositório foi criado para fins de estudo, então contribua com ele.<br>
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
+Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não
+deixe de compatilhar.
 
 Se possível:
 
-⭐️  Star o projeto
+⭐️ Star o projeto
 
 🐛 Encontrar e relatar issues
 
